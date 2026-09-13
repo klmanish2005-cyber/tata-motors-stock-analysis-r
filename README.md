@@ -343,9 +343,3 @@ The project can be further improved by adding:
 Data Analytics Project using R
 
 ---
-
-## Disclaimer
-
-This project is created for educational and academic purposes.
-
-The analysis and forecasts are based on historical market data. Past performance does not guarantee future results, and the forecast should not be considered financial or investment advice.
